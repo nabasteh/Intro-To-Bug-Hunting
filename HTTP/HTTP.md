@@ -22,3 +22,13 @@ https://www.youtube.com/watch?v=-Zea7GB2OwA
 https://softuni.org/dev-concepts/everything-you-need-to-know-about-http-protocol/
 
 https://www.youtube.com/watch?v=d_QPZPo2PLc
+
+https://www.w3schools.com/tags/ref_httpmethods.asp
+
+https://stackoverflow.com/questions/tagged/http
+
+https://www.amazon.com/HTTP-Definitive-Guide-David-Gourley/dp/1565925092
+
+https://www.coursera.org/courses?query=HTTP
+
+https://www.udemy.com/topic/http/
