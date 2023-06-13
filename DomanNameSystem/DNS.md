@@ -1,4 +1,4 @@
-# Learn Domain Name System(AKA DNS) from zero to hero
+# Learn Domain Name System (AKA DNS) from zero to hero
   Everything you need for an easy learning of DNS is included here! From Udemy courses to books, articles, documents and YouTube videos. So enjoy and don't forget to support (:
 # Contents & Resources
 https://en.wikipedia.org/wiki/Domain_Name_System
