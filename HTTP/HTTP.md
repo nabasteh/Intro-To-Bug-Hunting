@@ -1,4 +1,4 @@
-# Learn HTTP from zero to hero
+# Learn Hypertext Type Protocol (AKA HTTP) from zero to hero
   In this section of the basics of bug hunting, we turn to an important topic! You will need these tutorials to understand the communication between a client and a web server, etc using the HTTP protocol! This section includes textual and video content.
   Everything you need for an easy learning of this protocol is included here! From Udemy courses to books, articles, documents and YouTube videos. So enjoy and don't forget to support (:
 # Contents & Resources
