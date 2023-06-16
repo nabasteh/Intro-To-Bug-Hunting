@@ -1,5 +1,5 @@
 # Learn JavaScript from zero to hero
-
+  Everything you need for an easy learning of javascript is included here! From Udemy courses to books, articles, documents and YouTube videos. So enjoy and don't forget to support (:
 # Contents & Resources
 https://en.wikipedia.org/wiki/JavaScript
 
