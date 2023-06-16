@@ -16,10 +16,20 @@ Hello Friends, I provide educational resources in this repository for starting b
     
     . HTTP
   # WEB2.0
-    . JavaScript & JS for Security Reaserchers
+    . WEB2 Development
     
-    . PHP
+    . WEB2 API's
+
+    . WEB2 Security & VulnerAbilities
   # WEB3.0
-    . JavaScript
+    . CryptoGraphy
+
+    . BlockChain
+
+    . Smart Contract
+
+    . NFT
+
+    . WEB3 Security & VulnerAbilities
   # Mobile
     . Soon
