@@ -7,11 +7,17 @@ Hello Friends, I provide educational resources in this repository for starting b
 
   DOGE (: -> DDMPVmx3bynReAwQdtWjL6JLoow7c2LktC
 # All Contents (to now)
-  # Basics
-  . HTTP
-  
-  . DNS
-  
-  . Computer Network
-  
-  . TCP/IP
+  # Networking
+    . Network
+    
+    . TCP/IP
+    
+    . DNS
+    
+    . HTTP
+  # WEB2.0
+    . JavaScript & JS for Security Reaserchers
+  # WEB3.0
+    . JavaScript
+  # Mobile
+    . Soon
