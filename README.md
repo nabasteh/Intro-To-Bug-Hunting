@@ -7,6 +7,14 @@ Hello Friends, I provide educational resources in this repository for starting b
 
   DOGE (: -> DDMPVmx3bynReAwQdtWjL6JLoow7c2LktC
 # All Contents (to now)
+  # Essential Skills
+    . Windows
+    
+    . GNU/Linux
+    
+    . VPS/VM
+    
+    . ICDL
   # Networking
     . Network
     
