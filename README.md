@@ -47,3 +47,5 @@ Hello Friends, I provide educational resources in this repository for starting b
     . BugBountyHunting Community
     
     . Capture The Flag
+    
+    . Confrences
