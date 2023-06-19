@@ -44,8 +44,15 @@ Hello Friends, I provide educational resources in this repository for starting b
     
     . Bug Boutny Hunting Platforms
     
-    . BugBountyHunting Community
-    
+    . Bug Bounty Hunting Community
+      
+      . Forums
+      
+      . Twitter
+      
+      . Telegram
+      
+      . Reddit 
     . Capture The Flag
     
     . Confrences
