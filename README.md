@@ -41,3 +41,15 @@ Hello Friends, I provide educational resources in this repository for starting b
     . WEB3 Security & VulnerAbilities
   # Mobile
     . Soon
+  # Ninja (Additional Resources to be a pro-Bug Bounty Hunter)
+    . Burp Suite
+    
+    . CLI-Based Tools
+    
+    . Write-Up
+    
+    . Bug Boutny Hunting Platforms
+    
+    . BugBountyHunting Community
+    
+    . Capture The Flag
