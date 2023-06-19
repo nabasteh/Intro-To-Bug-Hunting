@@ -55,6 +55,10 @@ Hello Friends, I provide educational resources in this repository for starting b
       . Reddit
 
       . GitHub
+
+      . Discord
+
+      . YouTube
       
     . Capture The Flag
     
